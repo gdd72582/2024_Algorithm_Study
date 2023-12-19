@@ -4,17 +4,17 @@
 **[필수 문제]**
 
 완전탐색 :
-2231 [분해합](https://www.acmicpc.net/problem/2231)
-1018 [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
-2390 [일곱 난쟁이](https://www.acmicpc.net/problem/2309)
+- 2231 [분해합](https://www.acmicpc.net/problem/2231)
+- 1018 [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
+- 2390 [일곱 난쟁이](https://www.acmicpc.net/problem/2309)
 
 재귀:
-4779 [칸토어 집합](https://www.acmicpc.net/problem/4779)
-1914번 **[하노이** **탑**](https://www.acmicpc.net/problem/1914)
+- 4779 [칸토어 집합](https://www.acmicpc.net/problem/4779)
+- 1914번 [하노이 탑](https://www.acmicpc.net/problem/1914)
 
 **[연습문제]**
-[11729번 - **하노이** **탑** 이동 순서](https://www.acmicpc.net/problem/11729) - 하노이탑 응용
-10870 [피보나치 수 5](https://www.acmicpc.net/problem/10870) -피보나치 기본 개념 (1, 2, 3, 4) 도 있음.
+- [11729번 - 하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) - 하노이탑 응용
+- 10870 [피보나치 수 5](https://www.acmicpc.net/problem/10870) -피보나치 기본 개념 (1, 2, 3, 4) 도 있음.
 
 ---
 
