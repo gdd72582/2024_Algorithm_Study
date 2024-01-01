@@ -6,7 +6,7 @@
 완전탐색 :
 - 2231 [분해합](https://www.acmicpc.net/problem/2231)
 - 1018 [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018)
-- 2390 [일곱 난쟁이](https://www.acmicpc.net/problem/2309)
+- 2309 [일곱 난쟁이](https://www.acmicpc.net/problem/2309)
 
 재귀:
 - 4779 [칸토어 집합](https://www.acmicpc.net/problem/4779)
